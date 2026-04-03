@@ -16,4 +16,3 @@ class OutdatedVaccineError(VaccineError):
 class NotWearingMaskError(Exception):
     """Raised when the visitor is not wearing a mask."""
     pass
-  
